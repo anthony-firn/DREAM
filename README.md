@@ -21,12 +21,12 @@ This flexible approach acknowledges the diverse range of transformations and str
 We extend an open invitation for you to join us on this quest, helping to mold the future of advanced AI, and contributing to a vision where technological progress benefits all of humanity. We are creating a global tree of knowledge, a record of how our shared wisdom is being encoded into blossoming forms of intelligence. By feeding our AI with the right information, we can shape it in interesting and unique ways, just like nurturing a growing tree. Join us in becoming good stewards of this powerful tool.
 
 ## 📚 Table of Contents
-- [Project Goals](#project-goals)
-- [Project Beneficiaries](#project-beneficiaries)
-- [Project Timeline](#project-timeline)
-- [Project Budget and Fundraising Goals](#project-budget-and-fundraising-goals)
-- [Team and Organization](#team-and-organization)
-- [Contributing](#contributing)
+- [Project Goals](#-project-goals)
+- [Project Beneficiaries](#-project-beneficiaries)
+- [Project Timeline](#-project-timeline)
+- [Project Budget and Fundraising Goals](#-project-budget-and-fundraising-goals)
+- [Team and Organization](#-team-and-organization)
+- [Contributing](#-contributing)
 
 ## 🎯 Project Goals
 1.  **Short-Term Goals**:
