@@ -51,3 +51,48 @@ Through DREAM, we are not only contributing to the advancement of AI; we are str
 6.  **Society at large**: DREAM could help democratize access to advanced AI technology. By making DREAM accessible to all, and by allowing democratic fine-tuning, the project can contribute to digital inclusion and empower people regardless of their technical background or financial capability.
 
 7.  **Future Generations**: In the long run, DREAM could set a precedent for the democratic and inclusive development of AGI, contributing to a future where the benefits of advanced AI are shared widely rather than being concentrated in the hands of a few.
+
+## Project Budget and Fundraising Goals
+
+Our project budget is designed to ensure the sustainability of DREAM, allowing for the continual evolution and refinement of models. It also ensures the fair compensation of contributors and the establishment of efficient computational infrastructures. Here is an overview of our projected budget:
+
+1. **Community Sourced Hardware** - $10,000: Budgeted for managing and coordinating the distributed network of GPUs provided by the community for model training.
+
+2. **Development Tools & Services** - $20,000 per year: Budgeted for the various development tools and services needed for software development and project management.
+
+3. **Team Salaries** - $500,000 per year: Budgeted for the salaries of key team members, who are crucial to the project's development, management, and growth.
+
+4. **Contributor Compensation** - $300,000 per year: Budgeted for compensating community members for significant contributions to the project.
+
+5. **Legal, Accounting, & Administrative** - $20,000 per year: Budgeted for various administrative expenses, including legal and accounting services.
+
+6. **Marketing & Community Engagement** - $50,000 per year: Budgeted for activities to grow our user base and keep the community engaged.
+
+In total, we are seeking to raise around $900,000 for the first year, and around $890,000 for subsequent years. This budget will support DREAM's mission to democratize advanced AI, provide secure cryptographic systems, and foster a community-driven approach to AGI development.
+
+We are actively seeking funding through donations, grants, and sponsorships. All contributions, no matter how small, are immensely appreciated. They not only provide financial support but also demonstrate community engagement and shared belief in our mission.
+
+To contribute to our project or learn more about our funding needs, please visit [link to funding page].
+
+## Team and Organization
+
+### Anthony Firn (Project Lead)
+![Anthony's profile picture](Link_to_your_profile_picture)
+* GitHub: [@anthony-firn](https://github.com/anthony-firn)
+
+Anthony Firn is the founder and lead developer of DREAM. Based in California, he is passionate about leveraging advanced AI technologies for the greater good of humanity. His deep understanding of language models, cryptography, and community engagement shapes the core mission of DREAM. He believes in the power of open source and community-driven initiatives and envisions a future where AGI is accessible and beneficial to all.
+
+### Open Positions
+DREAM is looking to expand its team and welcome passionate individuals who share our mission and goals. We believe that everyone has something unique to bring to the table and welcome a diversity of skills, backgrounds, and perspectives. If you believe in democratizing AI and want to contribute to the evolution of language models, we'd love to hear from you!
+
+Open positions:
+
+- Software Engineers (with a focus on AI and ML)
+- Cryptography Specialists
+- Community Engagement Managers
+- Marketing and PR Specialists
+
+Interested candidates are encouraged to reach out to us at [Your Contact Email]. Please include your resume and a brief introduction about your interest in DREAM and the role you're applying for.
+
+### DREAM Community
+DREAM's strength lies in its community. We are a collective of developers, researchers, enthusiasts, and end-users from all around the world. Our collective efforts drive the continual evolution of DREAM. We encourage everyone to contribute, no matter how small the contribution might seem. Every idea, every line of code, and every minute spent on DREAM brings us closer to our shared vision.
