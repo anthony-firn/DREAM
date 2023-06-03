@@ -1,18 +1,34 @@
-# DREAM (Democratic Reinforcement Evolving AI Models)
+# 🌟 DREAM (Democratic Reinforcement Evolving AI Models) 🌟
 
-We are on the precipice of an age where artificial general intelligence (AGI) will revolutionize the way we live, learn, work, and interact. DREAM aims to build a future where this incredible technology is not controlled by a select few but is rather an empowering tool for all of humanity.
+We stand at a pivotal moment in history, where advanced AI models are set to reshape our world. DREAM is an ambitious initiative that foresees this powerful technology not as a resource reserved for the few but as a tool for widespread empowerment and collective advancement. 🌍
 
-Our mission is to develop an open-source, continuously evolving language model, inspired by advanced methodologies such as LLaMa. We believe that continual learning and model improvements, under the control of a diverse set of contributors, can lead to more flexible and effective AI tools.
+At its heart, DREAM is dedicated to developing an open-source, continuously evolving AI language model, drawing inspiration from pioneering projects such as GPT-4 and LLaMa. Our vision emphasizes continuous learning and iterative improvements, driven by a diverse collective of contributors, leading to more versatile and effective AI solutions.
 
-However, developing an AI system is not just a technological challenge; it's a spiritual journey that touches upon how we conceive our goals, our interactions, and our shared destiny. Thus, DREAM emphasizes an alignment system, adapting to the unique needs of individual users and enabling the AI to assist with their specific objectives, regardless of what they might be.
+Building an AI system goes beyond overcoming technical hurdles; it represents a new form of engagement with our values, our shared endeavors, and our communal aspirations. Bearing this in mind, DREAM underscores the importance of a value-alignment system, tailoring the AI to meet the unique needs of each user and assist them in achieving their specific goals.
 
-Furthermore, DREAM is committed to building a genuinely democratic AI training process. We propose a unique 'proof-of-work' system that allows contributors to cast a vote on the AI's training set by contributing computational resources. This ensures that the development and direction of the AI truly reflect the collective will of the contributors.
+DREAM is committed to fostering a genuinely democratic AI training process. Our vision is to establish an innovative 'proof-of-work' mechanism that allows contributors to influence the AI's training data by contributing their computational resources. In this way, the AI's evolution mirrors the collective will of its contributors.
 
-Simultaneously, DREAM aims to build an efficient hardware ecosystem that democratizes access to AGI training. We plan to start by optimizing algorithms for GPU acceleration, followed by the development of open-source ASICs designs for RLWE, an essential component of post-quantum cryptography, that could greatly reduce the energy costs of computation.
+As part of our mission to democratize access to AI training, DREAM is focusing on creating an efficient infrastructure. We begin by optimizing algorithms for GPU acceleration, with plans to advance towards open-source Application-Specific Integrated Circuits (ASICs) designs for Ring Learning with Errors (RLWE), a crucial element in resilient cryptography. This innovation could significantly reduce the energy demands of computations within our envisioned network.
 
-Through DREAM, we are not only contributing to the advancement of AI; we are striving to ensure this technology grows in a way that respects the diversity, autonomy, and creativity of every human spirit. We invite you to join us on this journey and help shape the future of AGI.
+Embarking on the DREAM journey signifies not just pushing the boundaries of AI technology but also advocating for principles of diversity, autonomy, and creative expression. As Pierre Teilhard de Chardin famously said, "We are not human beings having a spiritual experience; we are spiritual beings having a human experience." In this spirit, we view our relationship with AI not just as creators and inventions but as teachers and learners, nurturing our AI systems as we would nurture our children.
 
-## Project Goals
+We believe in the democratization of advanced AI, placing control in the hands of the masses, and fostering a network that surpasses the capabilities of any single entity. With DREAM, we strive to create an AI infrastructure that embodies the principle "with great power comes great responsibility." All network interactions are designed to be computationally reversible, allowing for the rectification of any actions by potential bad actors. The governance structure, determined by the computational contribution to the system, ensures a fair influence over its course.
+
+While we anticipate the most popular fork of the DREAM architecture to remain open-source and free, the inherent adaptability of DREAM allows for potential deviations. In such cases, only the modifications (delta values) would be proprietary, with the possibility to exclude these weights if required.
+
+This flexible approach acknowledges the diverse range of transformations and structural deltas that can occur within a branching network, ensuring DREAM can accommodate a myriad of potential futures while remaining true to its core principles.
+
+We extend an open invitation for you to join us on this quest, helping to mold the future of advanced AI, and contributing to a vision where technological progress benefits all of humanity. We are creating a global tree of knowledge, a record of how our shared wisdom is being encoded into blossoming forms of intelligence. By feeding our AI with the right information, we can shape it in interesting and unique ways, just like nurturing a growing tree. Join us in becoming good stewards of this powerful tool.
+
+## 📚 Table of Contents
+- [Project Goals](#project-goals)
+- [Project Beneficiaries](#project-beneficiaries)
+- [Project Timeline](#project-timeline)
+- [Project Budget and Fundraising Goals](#project-budget-and-fundraising-goals)
+- [Team and Organization](#team-and-organization)
+- [Contributing](#contributing)
+
+## 🎯 Project Goals
 1.  **Short-Term Goals**:
 
     a. *Accelerated Algorithm Development*: Develop GPU-accelerated versions of all algorithms used for training, thus setting the foundation for an energy-efficient training model. This step is crucial for democratizing access to the AI training process and making it affordable for a wider population.
@@ -37,7 +53,7 @@ Through DREAM, we are not only contributing to the advancement of AI; we are str
 
     c. *Establishment of Ethical AI Practices*: Encourage a new paradigm in AI development that is transparent, community-driven, and ethically aligned, challenging conventional models of AI ownership and development.
 
-## Project Beneficiaries
+## 👥 Project Beneficiaries
 1.  **Individual Users**: The direct beneficiaries would be individuals from all walks of life who have access to the platform. This could include students, researchers, hobbyists, and anyone interested in artificial intelligence, language models, or cryptography. They can use DREAM for various tasks, like question answering, writing, programming help, learning new topics, or anything that can be facilitated by a language model. The democratic fine-tuning aspect allows them to customize the AI according to their needs.
 
 2.  **Educational Institutions**: Schools, colleges, and universities could benefit from an advanced, continually evolving language model. It could be used as a tool for teaching, for assisting in research, and for academic exploration in the field of AI.
@@ -52,7 +68,37 @@ Through DREAM, we are not only contributing to the advancement of AI; we are str
 
 7.  **Future Generations**: In the long run, DREAM could set a precedent for the democratic and inclusive development of AGI, contributing to a future where the benefits of advanced AI are shared widely rather than being concentrated in the hands of a few.
 
-## Project Budget and Fundraising Goals
+## 🗓️ Project Timeline
+
+### 2023
+
+#### Q2 - June to August
+
+- Form the project team and secure initial funding.
+- Build an initial community of developers, AI enthusiasts, and potential users.
+- Begin researching viable blockchain structures and encryption methods for the project.
+
+#### Q3 - September to November
+
+- Develop accelerated algorithms for GPU-based model training.
+- Design the blockchain-based system for tracking model versions and user contributions.
+- Begin developing a lightweight, efficient system for homomorphic backpropagation.
+
+#### Q4 - December
+
+- Complete accelerated algorithm development.
+- Launch the blockchain-based version control system.
+- Start testing the homomorphic backpropagation system.
+
+### 2024
+
+#### Q1 - January to March
+
+- Continue testing and refining the homomorphic backpropagation system.
+- Begin planning for the RLWE system and ASIC design.
+- Develop a system for integrating with IPFS or a similar distributed file system.
+
+## 💰 Project Budget and Fundraising Goals
 
 Our project budget is designed to ensure the sustainability of DREAM, allowing for the continual evolution and refinement of models. It also ensures the fair compensation of contributors and the establishment of efficient computational infrastructures. Here is an overview of our projected budget:
 
@@ -74,7 +120,7 @@ We are actively seeking funding through donations, grants, and sponsorships. All
 
 To contribute to our project or learn more about our funding needs, please visit [link to funding page].
 
-## Team and Organization
+## 👨‍💻 Team and Organization
 
 ### Anthony Firn (Project Lead)
 ![Anthony's profile picture](https://avatars.githubusercontent.com/u/14951658?s=128)
@@ -96,3 +142,10 @@ Interested candidates are encouraged to reach out to us at anthonyfirn@illi.ac. 
 
 ### DREAM Community
 DREAM's strength lies in its community. We are a collective of developers, researchers, enthusiasts, and end-users from all around the world. Our collective efforts drive the continual evolution of DREAM. We encourage everyone to contribute, no matter how small the contribution might seem. Every idea, every line of code, and every minute spent on DREAM brings us closer to our shared vision.
+
+## 👍 Contributing
+We would love for you to contribute to the evolution of DREAM! Please check out our [Contributing Guide](link to the contributing guide) for guidelines about how to proceed. Everyone is welcome to contribute, and we value every contribution.
+
+---
+
+🤝 **Thank you for joining us on this journey towards democratizing AGI. Your support means the world to us!** 🌏
