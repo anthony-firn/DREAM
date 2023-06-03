@@ -77,7 +77,7 @@ To contribute to our project or learn more about our funding needs, please visit
 ## Team and Organization
 
 ### Anthony Firn (Project Lead)
-![Anthony's profile picture](Link_to_your_profile_picture)
+![Anthony's profile picture](https://avatars.githubusercontent.com/u/14951658?s=128)
 * GitHub: [@anthony-firn](https://github.com/anthony-firn)
 
 Anthony Firn is the founder and lead developer of DREAM. Based in California, he is passionate about leveraging advanced AI technologies for the greater good of humanity. His deep understanding of language models, cryptography, and community engagement shapes the core mission of DREAM. He believes in the power of open source and community-driven initiatives and envisions a future where AGI is accessible and beneficial to all.
@@ -92,7 +92,7 @@ Open positions:
 - Community Engagement Managers
 - Marketing and PR Specialists
 
-Interested candidates are encouraged to reach out to us at [Your Contact Email]. Please include your resume and a brief introduction about your interest in DREAM and the role you're applying for.
+Interested candidates are encouraged to reach out to us at anthonyfirn@illi.ac. Please include your resume and a brief introduction about your interest in DREAM and the role you're applying for.
 
 ### DREAM Community
 DREAM's strength lies in its community. We are a collective of developers, researchers, enthusiasts, and end-users from all around the world. Our collective efforts drive the continual evolution of DREAM. We encourage everyone to contribute, no matter how small the contribution might seem. Every idea, every line of code, and every minute spent on DREAM brings us closer to our shared vision.
