@@ -14,7 +14,7 @@ First off, thank you for considering contributing to DREAM! It's people like you
 
 ## Code of Conduct
 
-This project and everyone participating in it is governed by the [DREAM Code of Conduct](link to the Code of Conduct document). By participating, you are expected to uphold this code. Please report unacceptable behavior to [anthonyfirn@illi.ac].
+This project and everyone participating in it is governed by the [DREAM Code of Conduct](link to the Code of Conduct document). By participating, you are expected to uphold this code. Please report unacceptable behavior to [anthonyfirn@illi.ac](mailto:anthonyfirn@illi.ac).
 
 ## Getting Started
 
