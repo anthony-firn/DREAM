@@ -1,9 +1,6 @@
 <h1 align="center">🌟 DREAM 🌟</h1>
 
-<div align="center" style="background-image: url('https://repository-images.githubusercontent.com/645171071/f6322e07-75de-4dbf-bb9f-fee98fb13b20'); background-repeat: no-repeat; background-size: cover;">
-    <img src="assets/logo.svg" alt="DREAM logo" style="margin-top: 5px; margin-bottom: 0px">
-</div>
-
+![DREAM](./assets/logo.svg)
 
 ## (Democratic Reinforcement Evolving AI Models)
 
