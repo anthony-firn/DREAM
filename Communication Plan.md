@@ -1,4 +1,4 @@
-# Communication Plan for DREAM Project
+# Communication Plan for DREAM
 
 ## Introduction
 
