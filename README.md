@@ -1,10 +1,11 @@
 # 🌟 DREAM 🌟 (Democratic Reinforcement Evolving AI Models)
 
-We stand at a pivotal moment in history, where advanced AI models are set to reshape our world. DREAM is an ambitious initiative that foresees this powerful technology not as a resource reserved for the few but as a tool for widespread empowerment and collective advancement. 🌍
+We stand at a pivotal moment in history, where advanced AI models are set to reshape our world. DREAM is an ambitious initiative that envisions this powerful technology not as a resource reserved for the few but as a tool for widespread empowerment and collective advancement.
+🌍
 
-At its heart, DREAM is dedicated to developing an open-source, continuously evolving AI language model, drawing inspiration from pioneering projects such as GPT-4 and LLaMa. Our vision emphasizes continuous learning and iterative improvements, driven by a diverse collective of contributors, leading to more versatile and effective AI solutions.
+At its core, DREAM is dedicated to developing an open-source, continuously evolving AI language model, drawing inspiration from pioneering projects such as GPT-4 and LLaMa. Our vision emphasizes continuous learning and iterative improvements, driven by a diverse collective of contributors, leading to more versatile and effective AI solutions.
 
-Building an AI system goes beyond overcoming technical hurdles; it represents a new form of engagement with our values, our shared endeavors, and our communal aspirations. Bearing this in mind, DREAM underscores the importance of a value-alignment system, tailoring the AI to meet the unique needs of each user and assist them in achieving their specific goals.
+The process of crafting an AI system transcends mere technical hurdles; it signifies a novel engagement with our values, shared endeavours, and community aspirations. Acknowledging this, DREAM underscores the importance of value-alignment, tailoring AI systems to meet the unique needs of each user.
 
 DREAM is committed to fostering a genuinely democratic AI training process. Our vision is to establish an innovative 'proof-of-work' mechanism that allows contributors to influence the AI's training data by contributing their computational resources. In this way, the AI's evolution mirrors the collective will of its contributors.
 
@@ -14,11 +15,12 @@ Embarking on the DREAM journey signifies not just pushing the boundaries of AI t
 
 We believe in the democratization of advanced AI, placing control in the hands of the masses, and fostering a network that surpasses the capabilities of any single entity. With DREAM, we strive to create an AI infrastructure that embodies the principle "with great power comes great responsibility." All network interactions are designed to be computationally reversible, allowing for the rectification of any actions by potential bad actors. The governance structure, determined by the computational contribution to the system, ensures a fair influence over its course.
 
-While we anticipate the most popular fork of the DREAM architecture to remain open-source and free, the inherent adaptability of DREAM allows for potential deviations. In such cases, only the modifications (delta values) would be proprietary, with the possibility to exclude these weights if required.
+While we expect the most popular fork of the DREAM architecture to remain open-source and free, DREAM's inherent flexibility allows for potential diversions. In such instances, only the modifications (delta values) would be proprietary, allowing the exclusion of these weights if necessary.
 
-This flexible approach acknowledges the diverse range of transformations and structural deltas that can occur within a branching network, ensuring DREAM can accommodate a myriad of potential futures while remaining true to its core principles.
+This flexible approach acknowledges the diverse range of transformations and structural deltas that can occur within a branching network, ensuring DREAM can accommodate myriad potential futures while staying true to its core principles.
 
-We extend an open invitation for you to join us on this quest, helping to mold the future of advanced AI, and contributing to a vision where technological progress benefits all of humanity. We are creating a global tree of knowledge, a record of how our shared wisdom is being encoded into blossoming forms of intelligence. By feeding our AI with the right information, we can shape it in interesting and unique ways, just like nurturing a growing tree. Join us in becoming good stewards of this powerful tool.
+We extend an open invitation for you to join us on this quest, contributing to a vision where technological progress benefits all of humanity. Together, we are creating a global tree of knowledge, a record of our shared wisdom encoded into blossoming forms of intelligence.
+Join us in becoming good stewards of this powerful tool.
 
 ## 📚 Table of Contents
 - [Project Goals](#-project-goals)
@@ -31,6 +33,7 @@ We extend an open invitation for you to join us on this quest, helping to mold t
     - [2024](#2024)
         - [Q1](#q1---january-to-march)
 - [Project Budget and Fundraising Goals](#-project-budget-and-fundraising-goals)
+- [Risks and Challenges](#-risks-and-challenges)
 - [Team and Organization](#-team-and-organization)
     - [Project Lead](#anthony-firn-project-lead)
     - [Open Positions](#open-positions)
@@ -128,6 +131,20 @@ In total, we are seeking to raise around $900,000 for the first year, and around
 We are actively seeking funding through donations, grants, and sponsorships. All contributions, no matter how small, are immensely appreciated. They not only provide financial support but also demonstrate community engagement and shared belief in our mission.
 
 To contribute to our project or learn more about our funding needs, please visit [link to funding page].
+
+## 🚧 Risks and Challenges
+Developing a democratic and evolving AI model is no small feat, and we anticipate several risks and challenges, including:
+
+1. **Technical Complexity**: We are treading new territory and leveraging advanced technical concepts.
+2. **Resource Availability**: Secure funding is pivotal for project success.
+3. **Community Engagement**: The success of our project relies heavily on community contribution and engagement.
+4. **Security Concerns**: With wide contributor influence, there's a risk of malicious manipulation.
+5. **Governance Challenges**: Developing a governance structure aligning with democratic principles can be tricky.
+6. **Legal and Ethical Considerations**: AI usage raises potential legal and ethical considerations.
+7. **Long-Term Sustainability**: Ensuring the AI system's longevity as technology and user needs evolve.
+8. **Scalability**: Efficiently scaling the technology as the project grows.
+
+We recognize these risks and challenges and are committed to developing strategies to mitigate them. Transparency and accountability form the cornerstone of our approach, aligning with our democratic principles.
 
 ## 👨‍💻 Team and Organization
 
