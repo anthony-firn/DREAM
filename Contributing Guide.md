@@ -14,7 +14,7 @@ First off, thank you for considering contributing to DREAM! It's people like you
 
 ## Code of Conduct
 
-This project and everyone participating in it is governed by the [DREAM Code of Conduct](link to the Code of Conduct document). By participating, you are expected to uphold this code. Please report unacceptable behavior to [email].
+This project and everyone participating in it is governed by the [DREAM Code of Conduct](link to the Code of Conduct document). By participating, you are expected to uphold this code. Please report unacceptable behavior to [anthonyfirn@illi.ac].
 
 ## Getting Started
 
@@ -28,12 +28,12 @@ Contributions are made to this repo via Issues and Pull Requests (PRs). A few ge
 
 ### Reporting Bugs
 
-- Ensure the bug was not already reported by searching on GitHub under [Issues](link to the project's issues).
+- Ensure the bug was not already reported by searching on GitHub under [Issues](https://github.com/anthony-firn/DREAM/issues).
 - If you're unable to find an open issue addressing the problem, [open a new one](link to create a new issue). Be sure to include a **title and clear description**, as much relevant information as possible, and a **code sample** or an **executable test case** demonstrating the expected behavior that is not occurring.
 
 ### Suggesting Enhancements
 
-- Ensure the enhancement was not already reported by searching on GitHub under [Issues](link to the project's issues).
+- Ensure the enhancement was not already reported by searching on GitHub under [Issues](https://github.com/anthony-firn/DREAM/issues).
 - If you're unable to find an open issue proposing the enhancement, [open a new one](link to create a new issue). Be sure to include a **title and clear description**, as much relevant information as possible, and a **detailed explanation of the proposed enhancement**.
 
 ### Submitting Pull Requests
