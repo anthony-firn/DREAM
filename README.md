@@ -182,7 +182,7 @@ Please refer to our [Engagement and Communication Plan](https://github.com/antho
 Please refer to our [Technical Roadmap](https://github.com/anthony-firn/DREAM/blob/main/Techncial%20Roadmap.md) for more details.
 
 ## 🏛️ Governance Model
-Please refer to our [Governance Model](link to the Governance Model document) for more details.
+Please refer to our [Governance Model](https://github.com/anthony-firn/DREAM/blob/main/Governance%20Model.md) for more details.
 
 ## 🤝 Contributing
 We would love for you to contribute to the evolution of DREAM! Please check out our [Contributing Guide](link to the contributing guide) for guidelines about how to proceed. Everyone is welcome to contribute, and we value every contribution.
