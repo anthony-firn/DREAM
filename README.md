@@ -176,22 +176,22 @@ Interested candidates are encouraged to reach out to us at anthonyfirn@illi.ac. 
 DREAM's strength lies in its community. We are a collective of developers, researchers, enthusiasts, and end-users from all around the world. Our collective efforts drive the continual evolution of DREAM. We encourage everyone to contribute, no matter how small the contribution might seem. Every idea, every line of code, and every minute spent on DREAM brings us closer to our shared vision.
 
 ## 📣 Engagement and Communication Plan
-Please refer to our [Engagement and Communication Plan](https://github.com/anthony-firn/DREAM/blob/main/Communication_Plan.md) for more details.
+Please refer to our [Engagement and Communication Plan](./docs/communication-plan.md) for more details.
 
 ## 🛠️ Technical Roadmap
-Please refer to our [Technical Roadmap](https://github.com/anthony-firn/DREAM/blob/main/Techncial_Roadmap.md) for more details.
+Please refer to our [Technical Roadmap](./docs/techncial-roadmap.md) for more details.
 
 ## 🏛️ Governance Model
-Please refer to our [Governance Model](https://github.com/anthony-firn/DREAM/blob/main/Governance_Model.md) for more details.
+Please refer to our [Governance Model](./docs/governance-model.md) for more details.
 
 ## 🤝 Contributing
-We would love for you to contribute to the evolution of DREAM! Please check out our [Contributing Guide](https://github.com/anthony-firn/DREAM/blob/main/Contributing_Guide.md) for guidelines about how to proceed. Everyone is welcome to contribute, and we value every contribution.
+We would love for you to contribute to the evolution of DREAM! Please check out our [Contributing Guide](./docs/contributing-guide.md) for guidelines about how to proceed. Everyone is welcome to contribute, and we value every contribution.
 
 ## ⚖️ Code of Conduct
-We want to ensure that our project is a welcoming and inclusive space for everyone. Please check out our [Code of Conduct](https://github.com/anthony-firn/DREAM/blob/main/Code_of_Conduct.md) to understand our community norms and expectations.
+We want to ensure that our project is a welcoming and inclusive space for everyone. Please check out our [Code of Conduct](./docs/code-of-conduct.md) to understand our community norms and expectations.
 
 ## 📝 License
-DREAM is released under the GPL-V3 license. See [LICENSE](https://github.com/anthony-firn/DREAM/blob/main/LICENSE) for more details.
+DREAM is released under the GPL-V3 license. See [LICENSE](./LICENSE) for more details.
 
 ---
 
