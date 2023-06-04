@@ -1,4 +1,5 @@
-# 🌟 DREAM 🌟 (Democratic Reinforcement Evolving AI Models)
+# 🌟 DREAM 🌟
+## (Democratic Reinforcement Evolving AI Models)
 
 We stand at a pivotal moment in history, where advanced AI models are set to reshape our world. DREAM is an ambitious initiative that envisions this powerful technology not as a resource reserved for the few but as a tool for widespread empowerment and collective advancement.
 🌍
@@ -38,7 +39,12 @@ Join us in becoming good stewards of this powerful tool.
     - [Project Lead](#anthony-firn-project-lead)
     - [Open Positions](#open-positions)
     - [DREAM Community](#dream-community)
+- [Engagement and Communication Plan](#-engagement-and-communication-plan)
+- [Technical Roadmap](#-technical-roadmap)
+- [Governance Model](#-governance-model)
 - [Contributing](#-contributing)
+- [Code of Conduct](#-code-of-conduct)
+- [License](#-license)
 
 ## 🎯 Project Goals
 1.  **Short-Term Goals**:
@@ -169,8 +175,23 @@ Interested candidates are encouraged to reach out to us at anthonyfirn@illi.ac. 
 ### DREAM Community
 DREAM's strength lies in its community. We are a collective of developers, researchers, enthusiasts, and end-users from all around the world. Our collective efforts drive the continual evolution of DREAM. We encourage everyone to contribute, no matter how small the contribution might seem. Every idea, every line of code, and every minute spent on DREAM brings us closer to our shared vision.
 
-## 👍 Contributing
+## 📣 Engagement and Communication Plan
+Please refer to our [Engagement and Communication Plan](link to the Engagement and Communication Plan document) for more details.
+
+## 🛠️ Technical Roadmap
+Please refer to our [Technical Roadmap](link to the Technical Roadmap document) for more details.
+
+## 🏛️ Governance Model
+Please refer to our [Governance Model](link to the Governance Model document) for more details.
+
+## 🤝 Contributing
 We would love for you to contribute to the evolution of DREAM! Please check out our [Contributing Guide](link to the contributing guide) for guidelines about how to proceed. Everyone is welcome to contribute, and we value every contribution.
+
+## ⚖️ Code of Conduct
+We want to ensure that our project is a welcoming and inclusive space for everyone. Please check out our [Code of Conduct](link to the Code of Conduct document) to understand our community norms and expectations.
+
+## 📝 License
+DREAM is released under the GPL-V3 license. See [LICENSE](link to the License file) for more details.
 
 ---
 
