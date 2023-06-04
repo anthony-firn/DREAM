@@ -179,7 +179,7 @@ DREAM's strength lies in its community. We are a collective of developers, resea
 Please refer to our [Engagement and Communication Plan](https://github.com/anthony-firn/DREAM/blob/main/Communication%20Plan.md) for more details.
 
 ## 🛠️ Technical Roadmap
-Please refer to our [Technical Roadmap](link to the Technical Roadmap document) for more details.
+Please refer to our [Technical Roadmap](https://github.com/anthony-firn/DREAM/blob/main/Techncial%20Roadmap.md) for more details.
 
 ## 🏛️ Governance Model
 Please refer to our [Governance Model](link to the Governance Model document) for more details.
