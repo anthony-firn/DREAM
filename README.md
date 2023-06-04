@@ -1,4 +1,10 @@
-# 🌟 DREAM 🌟
+<h1 align="center">🌟 DREAM 🌟</h1>
+
+<div align="center" style="background-image: url('https://repository-images.githubusercontent.com/645171071/f6322e07-75de-4dbf-bb9f-fee98fb13b20'); background-repeat: no-repeat; background-size: cover;">
+    <img src="assets/logo.svg" alt="DREAM logo" style="margin-top: 5px; margin-bottom: 0px">
+</div>
+
+
 ## (Democratic Reinforcement Evolving AI Models)
 
 We stand at a pivotal moment in history, where advanced AI models are set to reshape our world. DREAM is an ambitious initiative that envisions this powerful technology not as a resource reserved for the few but as a tool for widespread empowerment and collective advancement.
