@@ -176,7 +176,7 @@ Interested candidates are encouraged to reach out to us at anthonyfirn@illi.ac. 
 DREAM's strength lies in its community. We are a collective of developers, researchers, enthusiasts, and end-users from all around the world. Our collective efforts drive the continual evolution of DREAM. We encourage everyone to contribute, no matter how small the contribution might seem. Every idea, every line of code, and every minute spent on DREAM brings us closer to our shared vision.
 
 ## 📣 Engagement and Communication Plan
-Please refer to our [Engagement and Communication Plan](link to the Engagement and Communication Plan document) for more details.
+Please refer to our [Engagement and Communication Plan](https://github.com/anthony-firn/DREAM/blob/main/Communication%20Plan.md) for more details.
 
 ## 🛠️ Technical Roadmap
 Please refer to our [Technical Roadmap](link to the Technical Roadmap document) for more details.
