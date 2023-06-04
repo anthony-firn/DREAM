@@ -40,10 +40,10 @@ Join us in becoming good stewards of this powerful tool.
     - [Open Positions](#open-positions)
     - [DREAM Community](#dream-community)
 - [Engagement and Communication Plan](#-engagement-and-communication-plan)
-- [Technical Roadmap](#-technical-roadmap)
-- [Governance Model](#-governance-model)
+- [Technical Roadmap](#%EF%B8%8F-technical-roadmap)
+- [Governance Model](#%EF%B8%8F-governance-model)
 - [Contributing](#-contributing)
-- [Code of Conduct](#-code-of-conduct)
+- [Code of Conduct](#%EF%B8%8F-code-of-conduct)
 - [License](#-license)
 
 ## 🎯 Project Goals
