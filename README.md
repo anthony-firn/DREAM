@@ -185,13 +185,13 @@ Please refer to our [Technical Roadmap](https://github.com/anthony-firn/DREAM/bl
 Please refer to our [Governance Model](https://github.com/anthony-firn/DREAM/blob/main/Governance%20Model.md) for more details.
 
 ## 🤝 Contributing
-We would love for you to contribute to the evolution of DREAM! Please check out our [Contributing Guide](link to the contributing guide) for guidelines about how to proceed. Everyone is welcome to contribute, and we value every contribution.
+We would love for you to contribute to the evolution of DREAM! Please check out our [Contributing Guide](https://github.com/anthony-firn/DREAM/blob/main/Contributing%20Guide.md) for guidelines about how to proceed. Everyone is welcome to contribute, and we value every contribution.
 
 ## ⚖️ Code of Conduct
-We want to ensure that our project is a welcoming and inclusive space for everyone. Please check out our [Code of Conduct](https://github.com/anthony-firn/DREAM/blob/main/Contributing%20Guide.md) to understand our community norms and expectations.
+We want to ensure that our project is a welcoming and inclusive space for everyone. Please check out our [Code of Conduct](https://github.com/anthony-firn/DREAM/blob/main/Code%20of%20Conduct.md) to understand our community norms and expectations.
 
 ## 📝 License
-DREAM is released under the GPL-V3 license. See [LICENSE](link to the License file) for more details.
+DREAM is released under the GPL-V3 license. See [LICENSE](https://github.com/anthony-firn/DREAM/blob/main/LICENSE) for more details.
 
 ---
 
