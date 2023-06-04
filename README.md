@@ -1,6 +1,6 @@
 <h1 align="center">🌟 DREAM 🌟</h1>
 
-![DREAM](./assets/logo.svg)
+![DREAM](https://raw.githubusercontent.com/anthony-firn/DREAM/main/assets/logo.svg)
 
 ## (Democratic Reinforcement Evolving AI Models)
 
