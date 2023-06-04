@@ -1,4 +1,4 @@
-# 🌟 DREAM (Democratic Reinforcement Evolving AI Models) 🌟
+# 🌟 DREAM 🌟 (Democratic Reinforcement Evolving AI Models)
 
 We stand at a pivotal moment in history, where advanced AI models are set to reshape our world. DREAM is an ambitious initiative that foresees this powerful technology not as a resource reserved for the few but as a tool for widespread empowerment and collective advancement. 🌍
 
@@ -23,9 +23,18 @@ We extend an open invitation for you to join us on this quest, helping to mold t
 ## 📚 Table of Contents
 - [Project Goals](#-project-goals)
 - [Project Beneficiaries](#-project-beneficiaries)
-- [Project Timeline](#-project-timeline)
+- [Project Timeline](#%EF%B8%8F-project-timeline)
+    - [2023](#2023)
+        - [Q2](#q2---june-to-august)
+        - [Q3](#q3---september-to-november)
+        - [Q4](#q4---december)
+    - [2024](#2024)
+        - [Q1](#q1---january-to-march)
 - [Project Budget and Fundraising Goals](#-project-budget-and-fundraising-goals)
 - [Team and Organization](#-team-and-organization)
+    - [Project Lead](#anthony-firn-project-lead)
+    - [Open Positions](#open-positions)
+    - [DREAM Community](#dream-community)
 - [Contributing](#-contributing)
 
 ## 🎯 Project Goals
