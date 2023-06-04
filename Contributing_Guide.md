@@ -44,7 +44,7 @@ Contributions are made to this repo via Issues and Pull Requests (PRs). A few ge
 
 ## Style Guide
 
-- Ensure your code follows the [DREAM Style Guide](link to the style guide).
+- Ensure your code follows the [DREAM Style Guide](https://github.com/anthony-firn/DREAM/blob/main/Style_Guide.md).
 - Whenever you are making a contribution to code, ensure it is following the project's code style guidelines. 
 
 ## Pull Request Process
