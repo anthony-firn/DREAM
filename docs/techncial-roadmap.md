@@ -18,6 +18,7 @@ The roadmap is divided into short-term, medium-term, and long-term goals. Each o
 - Development of machine learning algorithms.
 - Initial training and testing of our model.
 - Establishing a framework for continual learning and adaptation.
+- Exploration of LONGNET Integration: Research the feasibility and potential benefits of integrating the LONGNET model, which can handle extremely long sequences, into DREAM's architecture.
 
 ### Open Source Contribution Structure
 
@@ -31,6 +32,7 @@ The roadmap is divided into short-term, medium-term, and long-term goals. Each o
 - Improve the model's understanding, learning, and reasoning capabilities.
 - Develop our model's capability for self-supervised learning.
 - Advance our model's explainability and reliability.
+- Implementation of LONGNET: If feasible, begin the process of integrating LONGNET into DREAM's architecture, and evaluate its performance on large datasets and complex tasks.
 
 ### User Interface and Experience
 
@@ -56,6 +58,7 @@ The roadmap is divided into short-term, medium-term, and long-term goals. Each o
 - Lead and contribute to cutting-edge research in advanced machine intelligence.
 - Share our research and learnings openly with the wider community.
 - Collaborate with other organizations and researchers to tackle the most challenging problems.
+- LONGNET Research Contributions: Contribute to the ongoing research and development of LONGNET and similar models that can handle extremely long sequences, and share our findings with the wider community.
 
 ### Reliable and Trustworthy Model
 

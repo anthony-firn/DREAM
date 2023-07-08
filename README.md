@@ -58,6 +58,8 @@ Join us in becoming good stewards of this powerful tool.
 
     c. *Pilot Launch*: Train and launch an initial version of the open-source language model. This preliminary version will serve as the basis for further improvements and fine-tuning by the community.
 
+    d. *Integration of LONGNET*: Explore the integration of the LONGNET model, a variant of the Transformer model that can handle extremely long sequences. This could improve DREAM's ability to process large datasets and handle complex tasks that require understanding of long sequences of data.
+
 2.  **Medium-Term Goals**:
 
     a. *Cryptographic Revolution*: Improve and proliferate systems that seamlessly compute Ring Learning with Errors (RLWE), contributing to the evolution of post-quantum cryptography. This would advance the field of cryptography and make encrypted communications more secure.
@@ -152,6 +154,7 @@ Developing a democratic and evolving AI model is no small feat, and we anticipat
 6. **Legal and Ethical Considerations**: AI usage raises potential legal and ethical considerations.
 7. **Long-Term Sustainability**: Ensuring the AI system's longevity as technology and user needs evolve.
 8. **Scalability**: Efficiently scaling the technology as the project grows.
+9. **Integration of New Models**: The integration of new models like LONGNET into DREAM's architecture could present technical challenges. We will need to carefully consider how these models can be integrated without disrupting the existing system.
 
 We recognize these risks and challenges and are committed to developing strategies to mitigate them. Transparency and accountability form the cornerstone of our approach, aligning with our democratic principles.
 
