@@ -12,6 +12,8 @@ The roadmap is divided into short-term, medium-term, and long-term goals. Each o
 - Setting up scalable cloud computing resources.
 - Implementing secure data storage and management systems.
 - Establishing rigorous security protocols.
+- Integration of distributed systems like Hypercore and IPFS for data storage and management.
+- Integration of homomorphic encryption libraries like Microsoft SEAL for secure computations.
 
 ### Initial Model Development
 
@@ -32,6 +34,8 @@ The roadmap is divided into short-term, medium-term, and long-term goals. Each o
 - Improve the model's understanding, learning, and reasoning capabilities.
 - Develop our model's capability for self-supervised learning.
 - Advance our model's explainability and reliability.
+- Integration of Tinygrad for efficient and lightweight model training.
+- Integration of Ethereum blockchain for transparent and immutable model definitions and updates.
 - Implementation of LONGNET: If feasible, begin the process of integrating LONGNET into DREAM's architecture, and evaluate its performance on large datasets and complex tasks.
 
 ### User Interface and Experience
